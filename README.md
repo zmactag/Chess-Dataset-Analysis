@@ -1,5 +1,3 @@
-# Chess Dataset Analysis
- Python project for NYCDSA bootcamp. First project coding/using python.
 
 # Chess Dataset Analysis Python Project
 
@@ -11,6 +9,8 @@ First project using Python.
 ## Acknowledgements
 
  - [Kaggle Dataset](https://www.kaggle.com/datasets/datasnaek/chess)
+ - Thank you to my mentor Jonathon Presley for guidance during this project.
+ - And a big thank you to NYCDSA for helping me learn these skills!
 
 
 
