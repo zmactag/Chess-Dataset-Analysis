@@ -9,8 +9,7 @@ First project using Python.
 ## Acknowledgements
 
  - [Kaggle Dataset](https://www.kaggle.com/datasets/datasnaek/chess)
- - Thank you to my mentor Jonathon Presley for guidance during this project.
- - And a big thank you to NYCDSA for helping me learn these skills!
+ - Thank you to my mentor Jonathan Presley for guidance during this project and to NYCDSA for teaching me these skills!
 
 
 
