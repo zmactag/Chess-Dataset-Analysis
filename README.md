@@ -1,7 +1,7 @@
 
 # Chess Dataset Analysis Python Project
 
-Project analyzing a dataset of chess games from Lichess.com. Doing exploratory analysis on different variables and looking into different openings in depth, mainly focused on different opening winrates across different player ratings.
+Project analyzing a dataset of chess games from Lichess.com. Utilizes exploratory analysis on different variables and looks into different openings in depth, mainly focused on different opening winrates across different player ratings.
 
 First project using Python. 
 
