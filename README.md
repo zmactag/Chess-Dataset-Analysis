@@ -35,7 +35,7 @@ First project using Python.
 
     2.3 Visualing Rating Difference
 
-    2.4 Making Rating Difference Subsets to Calculate Winrates
+    2.4 Making Rating Subsets to Calculate Winrates in Brackets
 
     2.5 Visualization of Rating Difference Against Number of Turns
 
